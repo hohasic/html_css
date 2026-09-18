@@ -1,0 +1,27 @@
+#wrap {
+    width: 370px;
+    margin: 10px auto;
+}
+
+#wrap div.item {
+    margin-bottom: 10px;
+}
+
+#wrap li.thum > div > img {
+    min-width: 170px;
+    max-width: 170px;
+    border-radius: 7px;
+}
+
+#wrap li.txt > div {
+    width: 180px;
+    font-size: .9em;
+    padding: 0 0 0 10px;
+}
+
+#wrap li.txt > div:first-child {
+    font-weight: bold;
+}
+
+
+
