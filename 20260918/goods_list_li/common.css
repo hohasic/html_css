@@ -11,3 +11,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+ul {
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    list-style: none;
+}
